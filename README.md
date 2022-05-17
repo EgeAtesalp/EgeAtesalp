@@ -6,6 +6,9 @@ My Name is Ege Atesalp. I am a software developer living in Berlin, and I am esp
 ### Here is a rundown of some of the projects I have done:
 
 ### WEB3
+
 Proud Member of the Buidl Guidl, which is a Community of ETH Web3 Developers (https://buidlguidl.com/builders/0x6b9b2babDb288C5B5EE5180dA605926383C01190)
 
-
+- [Simple-NFT-Example](https://github.com/EgeAtesalp/Simple-NFT-Example)
+- [Decentralized-Staking-App](https://github.com/EgeAtesalp/Decentralized-Staking-App)
+- [Token-Vendor](https://github.com/EgeAtesalp/Token-Vendor)
