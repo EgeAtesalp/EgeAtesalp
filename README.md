@@ -1,6 +1,8 @@
 ### Hi there 	:wave:
 
-My Name is Ege Atesalp. I am a software developer and I am especially passionate about the emerging blockchain networks and their ecosystems. I graduated from Technical University Berlin (here is my bachelor thesis: [Bachelor_Thesis](Bachelor_Thesis.pdf) :nerd_face:) and still living in Berlin. Feel free to contact me for any questions, inquiries via egeatesalp@gmail.com.
+My Name is Ege Atesalp. I am a software developer living in Berlin, and I am especially passionate for Blockchain Networks and their ecosystems. I graduated from Technical University Berlin (here is my [bachelor_thesis](Bachelor_Thesis.pdf) :nerd_face:, its about CI/CD and DevOps implementations for ML applications). Feel free to contact me for any questions, inquiries via egeatesalp@gmail.com.
+
+Here is a rundown of some of the projects I have done:
 
 <!--
 **EgeAtesalp/EgeAtesalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
