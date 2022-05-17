@@ -12,3 +12,11 @@ Proud Member of the Buidl Guidl, which is a Community of ETH Web3 Developers (ht
 - [Simple-NFT-Example](https://github.com/EgeAtesalp/Simple-NFT-Example)
 - [Decentralized-Staking-App](https://github.com/EgeAtesalp/Decentralized-Staking-App)
 - [Token-Vendor](https://github.com/EgeAtesalp/Token-Vendor)
+
+[Arbitrum L2 Optimistic Rollup Quickstart Guide](https://github.com/EgeAtesalp/ArbitrumTestnet_Gas_Analysis)
+
+
+### Data Science
+
+[Dune Analytics Dashboard(mBTC)](https://github.com/EgeAtesalp/mBTC_Analysis)
+
