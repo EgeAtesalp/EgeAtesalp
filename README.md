@@ -7,6 +7,8 @@ My Name is Ege Atesalp. I am a software developer living in Berlin, and I am esp
 
 ### WEB3
 
+[NFT Signer/Validator Application using IOTA Service Integration API](https://github.com/EgeAtesalp/Signer_App_IOTA)
+
 Proud Member of the Buidl Guidl, which is a Community of ETH Web3 Developers (https://buidlguidl.com/builders/0x6b9b2babDb288C5B5EE5180dA605926383C01190)
 
 - [Simple-NFT-Example](https://github.com/EgeAtesalp/Simple-NFT-Example)
